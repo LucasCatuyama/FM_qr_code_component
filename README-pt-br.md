@@ -1,3 +1,5 @@
+![Idioma: Português](https://img.shields.io/badge/Idioma-Português-blue.svg)
+
 # Sobre este projeto
 Frontend Mentor é uma plataforma online que oferece projetos de design para desenvolvedores front-end praticarem suas habilidades de codificação. Os desafios variam em dificuldade e são baseados em designs de sites reais, permitindo aos usuários implementarem HTML, CSS e JavaScript.
 
