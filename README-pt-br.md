@@ -6,7 +6,7 @@ Frontend Mentor é uma plataforma online que oferece projetos de design para des
 Este projeto é do nível mais fácil "Newbie" e consiste em recriar uma página com um QR code.
 
 # Objetivo
-O objetivo desse projeto é recriar a imagem acima com o próprio código, utilizando HTML e CSS.
+O objetivo desse projeto é recriar a imagem abaixo com o próprio código, utilizando HTML e CSS.
 
 ![desktop-preview](https://github.com/LucasCatuyama/FM_qr_code_component/assets/67424170/64a0e72a-773a-4955-ae92-9319b5506e65)
 
